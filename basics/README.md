@@ -4,3 +4,4 @@ Script 2-bring me home : Va dans le dossier personel
 Script ls files : Affiche la liste des fishier avec les infos
 Script list  mor files with hidden files
 Script list files digit only ls long fils hidden files and numeri group ID
+Ajouter script dans dossier tmp
