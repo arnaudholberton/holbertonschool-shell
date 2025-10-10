@@ -7,3 +7,4 @@ Script list files digit only ls long fils hidden files and numeri group ID
 Ajouter script dans dossier tmp
 Deplace betty dans tmp
 bye bye bettysuppr dossier tmp
+retour dossier precedent
