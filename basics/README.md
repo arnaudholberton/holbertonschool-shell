@@ -5,4 +5,5 @@ Script ls files : Affiche la liste des fishier avec les infos
 Script list  mor files with hidden files
 Script list files digit only ls long fils hidden files and numeri group ID
 Ajouter script dans dossier tmp
-Deplace betty dans tmpbye bye betty
+Deplace betty dans tmp
+bye bye betty
