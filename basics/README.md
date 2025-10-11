@@ -13,3 +13,4 @@ script file type
 add lien symbolique ln
 Add copy html
 mv MAJ lettre
+suppr ~
