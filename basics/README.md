@@ -12,3 +12,4 @@ Add script ls whit parent and boot
 script file type
 add lien symbolique ln
 Add copy html
+mv MAJ lettre
