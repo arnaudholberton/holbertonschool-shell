@@ -9,3 +9,4 @@ Deplace betty dans tmp
 bye bye bettysuppr dossier tmp
 retour dossier precedent
 Add script ls whit parent and boot
+script file type
