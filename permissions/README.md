@@ -10,3 +10,4 @@ james bond
 john doe
 mirror permission
 directories permission
+mkdir permission
