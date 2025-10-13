@@ -5,3 +5,4 @@ chown
 empyt
 execute
 multiple permissions
+everybody
