@@ -8,3 +8,4 @@ multiple permissions
 everybody
 james bond
 john doe
+mirror permission
