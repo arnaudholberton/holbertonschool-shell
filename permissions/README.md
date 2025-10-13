@@ -11,3 +11,4 @@ john doe
 mirror permission
 directories permission
 mkdir permission
+change group
