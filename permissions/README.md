@@ -3,3 +3,4 @@ add whoami
 groups
 chown
 empyt
+execute
