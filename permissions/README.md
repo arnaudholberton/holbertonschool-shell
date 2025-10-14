@@ -12,3 +12,4 @@ mirror permission
 directories permission
 mkdir permission
 change group
+change propriaitaire et group
