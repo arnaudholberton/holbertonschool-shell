@@ -1,2 +1,2 @@
 script hello world
-script smiley
+script smileyexercice 2
