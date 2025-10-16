@@ -1,0 +1,2 @@
+#!/bin/bash
+fing -empty -name ".*" -printf "%f\n"
