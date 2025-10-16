@@ -6,3 +6,4 @@ exo 1
  exo 5 
 exo 6 
  exo 7
+ exo 8
